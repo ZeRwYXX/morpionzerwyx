@@ -1,0 +1,22 @@
+{
+  "name": "zerwyx-morpion",
+  "version": "0.0.1",
+  "description": "simple module pour avoir un morpion sur votre bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "genbot"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZeRwYX/morpionzerwyx.git"
+  },
+  "keywords": [
+    "morpion"
+  ],
+  "author": "zerwyx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZeRwYX/morpionzerwyx/issues"
+  },
+  "homepage": "https://github.com/ZeRwYX/morpionzerwyx#readme"
+}

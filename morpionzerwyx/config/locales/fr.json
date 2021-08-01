@@ -1,0 +1,20 @@
+{
+  "duel": {
+    "title": "<:manette_logo:869983740158427177> Demande de duel",
+    "challenge": "{invited}, **{initier}** Veux te défié au morpion",
+    "action": "Réagis à ce message pour accepter ou décliner le duel.",
+    "expire": "<a:triste:869999829827325962> `{invited}` Ah bah il a veski.",
+    "reject": "`{invited}` a veski la demande.",
+    "unknown-user": "Error le membres est soit invalide, soit pas dans le serveur."
+  },
+  "game": {
+    "title": "<a:relief:869999827092656208> Sa commence `{player1}` Contre `{player2}`",
+    "action": "{player}, Séléctionez la réaction suivant l'emplacement souhaiter:",
+    "load": "Chargement des réactions <a:wait:869984129888964721>",
+    "end": "Bruh personne a gagné ou tous le monde a gagné",
+    "win": ":tada: {player} a gagné! <a:love:869999829315649617>",
+    "expire": ":x: La partie a été annuler. Cela fait trop de temps que j'attend",
+    "waiting-ai": ":robot: GenBot joue contre toi, attend j'arrive tu vas voir...",
+    "ai": "GenBot"
+  }
+}
